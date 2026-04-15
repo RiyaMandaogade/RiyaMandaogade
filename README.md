@@ -1,31 +1,69 @@
 <h1 align="center">Hi, I'm Riya Prashant Mandaogade</h1>
+<h5 align="center">Full-Stack Developer | ML Enthusiast | AWS Certified — from Mumbai</h5>
 
-For the animated typing text ("Java Enthu"), your friend used:
-readme-typing-svg.demolab.com — generates an SVG image you embed with ![Typing SVG](url)
-Section 2
-About Me & Connect With Me Markdown
-Simple bullet list with links. Social badges (LinkedIn, Instagram) are images from:
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=500&size=30&pause=1000&width=435&lines=Welcome+to+my+GitHub+Universe!;VIT+CSE'26+%7C+Coder.+Builder.+Trader.;AWS+Certified+Cloud+Practitioner;ML+Engineer+in+the+making;C%2B%2B%7CJava%7CReact%7CNode.js+Enthusiast;Where+Finance+Meets+Code" />
+  </a>
+</p>
 
-shields.io — or use pre-made ones from Badges4-README
-Section 3
-Tech Stack badges Shields.io
-Each colored badge is an image from shields.io. Example:
+---
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-Use shields.io/badges to build custom ones, or find premade stacks at markdown-badges repo
-Section 4
-GitHub Stats GitHub Readme Stats
-The streak counter and stats cards come from two free services:
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-github-readme-streak-stats — for the streak widget
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)](https://git.io/streak-stats)
-github-readme-stats — for stats + top languages
-Step 5
-Profile Views counter komarev.com
-The "Profile Views 1,498" badge:
+### 🛠️ About Me
 
-![Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
-Shortcut: Use a generator tool
-Instead of writing everything manually, these tools generate the full README for you:
-rahuldkjain.github.io/gh-profile-readme-generator — most popular, very easy
-profilinator.rishav.dev — drag & drop builder
+- 🎓 B.Tech CSE @ VIT Vellore (2022–2026)
+- 🏆 AWS Certified Cloud Practitioner
+- 📈 **Fun Fact:** I find markets as fascinating as algorithms
+- 🔗 **Portfolio:** [Coming Soon]
+
+---
+
+### 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/riya-prashant-mandaogade-177a492a7/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/RiyaMandaogade">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://codeforces.com/profile/RiyaMandaogade">
+  <img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+---
+
+### 💻 Tech Stack
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools & Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![WebSockets](https://img.shields.io/badge/WebSockets-%23010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white)
