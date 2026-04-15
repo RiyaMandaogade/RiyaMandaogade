@@ -13,7 +13,7 @@
 
 ### 🛠️ About Me
 
-- 🎓 B.Tech CSE @ VIT Vellore (2022–2026)
+- 🎓 B.Tech CSE @ VIT Bhopal (2022–2026)
 - 🏆 AWS Certified Cloud Practitioner
 - 📈 **Fun Fact:** I find markets as fascinating as algorithms
 - 🔗 **Portfolio:** [Coming Soon]
