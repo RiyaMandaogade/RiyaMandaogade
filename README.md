@@ -1,7 +1,4 @@
-Header / Intro Markdown
-Your name, title, and tagline using Markdown headings and a typing animation.
-
-<h1 align="center">Hi, I'm Aaryan Soni</h1>
+<h1 align="center">Hi, I'm Riya Prashant Mandaogade</h1>
 
 For the animated typing text ("Java Enthu"), your friend used:
 readme-typing-svg.demolab.com — generates an SVG image you embed with ![Typing SVG](url)
