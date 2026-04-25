@@ -33,17 +33,6 @@
 </a>
 
 ---
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RiyaMandaogade&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiyaMandaogade&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaMandaogade&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" />
-</p>
 ### 💻 Tech Stack
 
 **Languages**
@@ -77,3 +66,15 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![WebSockets](https://img.shields.io/badge/WebSockets-%23010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RiyaMandaogade&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiyaMandaogade&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaMandaogade&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" />
+</p>
