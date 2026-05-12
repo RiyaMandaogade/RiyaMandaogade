@@ -6,10 +6,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=500&size=30&pause=1000&width=435&lines=Welcome+to+my+GitHub+Universe!;VIT+CSE'26+%7C+Coder.+Builder.+Trader.;AWS+Certified+Cloud+Practitioner;ML+Engineer+in+the+making;C%2B%2B%7CJava%7CReact%7CNode.js+Enthusiast;Where+Finance+Meets+Code" />
   </a>
 </p>
-
----
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<p align="center">
+  <img src="./pacman-contribution-final.svg" alt="Pac-Man eating my GitHub contributions" />
+</p>
 
 ### 🛠️ About Me
 
