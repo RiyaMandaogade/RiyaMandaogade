@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Riya Prashant Mandaogade</h1>
+<h1 align="center">I'm Riya Prashant Mandaogade</h1>
 <h5 align="center">Full-Stack Developer | ML Enthusiast | AWS Certified — from Mumbai</h5>
 
 <p align="center">
